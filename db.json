@@ -1,0 +1,46 @@
+{
+    "holdings" : [
+        {
+            "id": "01",
+            "currency": "Bitcoin",
+            "symbol": "BTC",
+            "amount": 3
+        },
+        {
+            "id": "02",
+            "currency": "Dogecoin",
+            "symbol": "DOGE",
+            "amount": 300000
+        },
+        {
+            "id": "03",
+            "currency": "Monero",
+            "symbol": "XMR",
+            "amount": 10
+        },
+        {
+            "id": "04",
+            "currency": "Tezos",
+            "symbol": "XTC",
+            "amount": 2000
+        },
+        {
+            "id": "05",
+            "currency": "Ethereum",
+            "symbol": "ETH",
+            "amount": 11
+        },
+        {
+            "id": "06",
+            "currency": "Litecoin",
+            "symbol": "LTC",
+            "amount": 5
+        },
+        {
+            "id": "07",
+            "currency": "Cardano",
+            "symbol": "ADA",
+            "amount": 15000
+        }
+    ]
+}
